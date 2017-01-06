@@ -28,9 +28,15 @@ Deployment
 This project is ready to deploy on Heroku. Just [provide your environment variables](https://devcenter.heroku.com/articles/config-vars) to your Heroku project:
 
 WATSON_CONVERSATION_USERNAME
+
 WATSON_CONVERSATION_PASSWORD
+
 WATSON_CONVERSATION_WORKSPACEID
+
 WATSON_CONVERSATION_VERSIONDATE
+
 SLACK_API_TOKEN
+
 PARTICLE_DEVICE_1
+
 PARTICLE_ACCESS_TOKEN
